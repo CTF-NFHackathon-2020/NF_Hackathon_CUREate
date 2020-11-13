@@ -1,7 +1,6 @@
 # NF Knowledge Explorer
 
-NF Hackathon project 2020  https://nfhack-platform.bemyapp.com/#/projects/5f7fd37aed4283001b7bcd66
-[Project Overview](https://nfhack-platform.bemyapp.com/#/projects/5f7fd37aed4283001b7bcd66)
+NF Hackathon project 2020 [Project Overview](https://nfhack-platform.bemyapp.com/#/projects/5f7fd37aed4283001b7bcd66)
 
 Our goal is to facilitate knowledge discovery by building an interactive tool where people can quickly explore literature data about NF and find answers effectively and accurately. We are interested in applying various NLP and data science techniques, such as question answering, topic mining, trend analysis and network analysis.
 
